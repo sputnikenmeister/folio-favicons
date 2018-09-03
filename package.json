@@ -1,0 +1,14 @@
+{
+	"name": "@folio/workspace-assets",
+	"version": "0.1.1",
+	"private": true,
+	"devDependencies": {
+		"grunt": "^1.0.3",
+		"grunt-compile-handlebars": "^2.0.2",
+		"grunt-contrib-clean": "^1.1.0",
+		"grunt-contrib-copy": "^1.0.0",
+		"grunt-favicons": "^0.8.0",
+		"grunt-svg2png": "^0.2.8",
+		"underscore": "^1.9.1"
+	}
+}
